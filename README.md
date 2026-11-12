@@ -1,5 +1,7 @@
 ### 1. Evacuation Percentage Map
 
+Hurricane Ida, New York — Evacuation rate by ZIP code: https://vaidehiraipat.github.io/Visualizing-evacuation-displacement-and-inflow/maps/ida_ny_ZIPlevel_maps/ny_zip_evacuation_rate.html
+
 The **Evacuation Percentage Map** shows the share of users from each affected origin county who temporarily moved away from their established pre-disaster home during or immediately after the disaster.
 
 The evacuation percentage is calculated as:
@@ -15,6 +17,8 @@ The evacuation percentage is calculated as:
 ---
 
 ### 2. Displacement Map: Disaster vs. Comparable Non-Disaster Period
+
+Hurricane Ida, New York — Destination rate by ZIP code: https://vaidehiraipat.github.io/Visualizing-evacuation-displacement-and-inflow/maps/ida_ny_ZIPlevel_maps/ny_zip_destination_rate.html
 
 A user is classified as displaced when their later HOME is located in a different county from their pre-disaster HOME.
 
@@ -35,6 +39,8 @@ The disaster-period displacement pattern is displayed alongside the **comparable
 ---
 
 ### 3. Destination Inflow Percentage Map
+
+Hurricane Ida, New York — Inflow by ZIP code: https://vaidehiraipat.github.io/Visualizing-evacuation-displacement-and-inflow/maps/ida_ny_ZIPlevel_maps/ny_zip_inflow.html 
 
 The **Destination Inflow Percentage Map** shows which counties received displaced users.
 
