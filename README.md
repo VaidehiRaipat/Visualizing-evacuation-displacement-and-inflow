@@ -78,4 +78,4 @@ Excess inflow is defined as:
 
 Destination counties are grouped into distance bands, and the plot reports the median excess inflow with **95% bootstrap confidence intervals**.
 
-A Spearman rank correlation is used to test whether excess inflow systematically changes with distance from the affected region.
+<img width="960" height="407" alt="NIH_NY_IDA_ZCTA" src="https://github.com/user-attachments/assets/768f2945-fc7a-4014-8e5e-49aeb3d8ee83" />
