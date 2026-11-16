@@ -82,5 +82,6 @@ Excess inflow is defined as:
 ```
 
 Destination counties are grouped into distance bands, and the plot reports the median excess inflow with **95% bootstrap confidence intervals**.
+<img width="1437" height="514" alt="image" src="https://github.com/user-attachments/assets/442e1cf2-e220-4445-8053-2836480407d4" />
 
-<img width="960" height="407" alt="NIH_NY_IDA_ZCTA" src="https://github.com/user-attachments/assets/768f2945-fc7a-4014-8e5e-49aeb3d8ee83" />
+
