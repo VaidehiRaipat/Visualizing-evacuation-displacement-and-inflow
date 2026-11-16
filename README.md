@@ -58,6 +58,11 @@ The map is colored by the disaster-period inflow percentage.
 
 Hover information reports the disaster-period inflow, comparable non-disaster-period inflow, and the difference between the two.
 
+#### Excess inflow
+
+For each destination ZIP $z$, excess inflow is the difference between its inflow rate in a post-IDA month $t$ (September or October 2021) and its July 2021 (Non-IDA month) inflow rate, measured in **percentage points**.
+https://vaidehiraipat.github.io/Visualizing-evacuation-displacement-and-inflow/maps/ida_ny_ZIPlevel_maps/ny_zip_excess_inflow.html
+
 ---
 
 ### 4. Inflow-Distance Plot
