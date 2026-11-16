@@ -63,6 +63,12 @@ Hover information reports the disaster-period inflow, comparable non-disaster-pe
 For each destination ZIP $z$, excess inflow is the difference between its inflow rate in a post-IDA month $t$ (September or October 2021) and its July 2021 (Non-IDA month) inflow rate, measured in **percentage points**.
 https://vaidehiraipat.github.io/Visualizing-evacuation-displacement-and-inflow/maps/ida_ny_ZIPlevel_maps/ny_zip_excess_inflow.html
 
+$$
+\Delta I_{z,t}
+= I_{z,t} - I_{z,\mathrm{July}}
+= 100 \times \frac{A_{z,t} - A_{z,\mathrm{July}}}{N_{z,\mathrm{August}}}
+$$
+
 ---
 
 ### 4. Inflow-Distance Plot
